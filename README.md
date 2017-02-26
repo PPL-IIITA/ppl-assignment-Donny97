@@ -6,8 +6,8 @@ ppl-assignment-Donny97 created by GitHub Classroom
 >This project is an assignment for the Principal of Programming Languages course. It emphasises on Object Oriented Design and has been written in C++. Currently it holds the solution of *Questions 1 and 2.*
 
 ##Environment
->This project was built on  Windows 10, Text Editor and IDE used was DevC++.
-The documentation for the assignment can be found opening index.html in \assignment\html\inde.html and class diagram as under Class_Diagram.jpeg.
+>This project was built on Windows 10, Text Editor and IDE used was DevC++.
+The documentation for the assignment can be found by opening index.html in \assignment\html\index.html and class diagram as under Class_Diagram.jpg.
 
 ## How to run?
 
