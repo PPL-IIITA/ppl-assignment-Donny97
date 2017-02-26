@@ -7,7 +7,7 @@ ppl-assignment-Donny97 created by GitHub Classroom
 
 ##Environment
 >This project was built on  Windows 10, Text Editor and IDE used was DevC++.
-The documentation for the assignment can be found opening index.html in \assignment\html\inde.html and class diagram as under Class_Diagram.pdf.
+The documentation for the assignment can be found opening index.html in \assignment\html\inde.html and class diagram as under Class_Diagram.jpeg.
 
 ## How to run?
 
