@@ -23,7 +23,7 @@ or you can use Dev C++
 >The generated boys, girls, gift and couples will be stored in boy.txt, girl.txt, gift.txt and couple.txt respectively
   
 ### Question 2
->**Ignore if already done for question 1** : Generate random list of boys and girls
+>For Ques 2 
 ```
 for ques 1 and 2 run Q1.cpp and the couple details will be printed.
 after that K (k=2) happiest couple and k (k=2) most compatible couples' details will be printed.
