@@ -19,7 +19,7 @@ int main( ) {
 	generate_girl();
 	generate_boy();
 	generate_gift();
-	int t;
+	int t,i;
 	printf("No. of Gift giving meetings in a month:\n");
 	scanf("%d",&t);
 	make_couples();
