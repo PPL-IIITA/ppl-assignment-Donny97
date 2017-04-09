@@ -19,7 +19,7 @@ The documentation for the assignment can be found by opening index.html in \html
 ### Question 1 and 2 in same program
 >To run the code type
 ```
-gcc Q1.cpp 
+g++ Q1.cpp 
 ./a.out
 in linux
 or you can use Dev C++
