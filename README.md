@@ -1,15 +1,15 @@
 Jayesh Patil (IIT2015064)
 ppl-assignment-Donny97 created by GitHub Classroom
 
-##About
+## About
 
 >This project is an assignment for the Principal of Programming Languages course. It emphasises on Object Oriented Design and has been written in C++. Currently it holds the solution of *Questions 1 to 8.*
 
-##Prerequisites
+## Prerequisites
 > OS - Windows 10
 > IDE - DevC++
 
-##Environment
+## Environment
 >This project was built on Windows 10, Text Editor and IDE used was DevC++.
 The documentation for the assignment can be found by opening index.html in \html\index.html and class diagram as under Class_Diagram.pdf.
 
@@ -67,11 +67,11 @@ Gift allocation is printed.
 ```
 
 ## Logging details
-> ###General text files (Get recreated when the questions are run)
+> ### General text files (Get recreated when the questions are run)
   * List of randomly generated boys : boy.txt
   * List of randomly generated girls : girl.txt
   * List of randomly generated gifts : gift.cpp
   * List of generated couples : couple.txt
- >###Logging (Log file is permanent and maintains logs of all the executions)
+ >### Logging (Log file is permanent and maintains logs of all the executions)
 
  
