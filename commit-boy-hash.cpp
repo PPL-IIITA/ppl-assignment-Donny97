@@ -294,6 +294,5 @@ int couple_count, minIndex=0,moneySpent = 0,moneyLeft,maxGIndex=0;
 	}
   
   
-  
+*/  
 }
-*/
