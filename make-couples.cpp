@@ -199,7 +199,7 @@ int couple_count, minIndex=0,moneySpent = 0,moneyLeft,maxGIndex=0;
 			}
 		}
 	}
-	/*int couple_happy[10]={0};
+	int couple_happy[10]={0};
 	for(i=0;i<10;i++)
 	{
 		if(G[i].type == 0) 
@@ -296,4 +296,3 @@ int couple_count, minIndex=0,moneySpent = 0,moneyLeft,maxGIndex=0;
   
   
 }
-*/
